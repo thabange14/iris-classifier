@@ -18,8 +18,7 @@ A small machine learning project in Java that classifies iris flowers into three
 
 ## Results
 
-- **Accuracy:** 96.7% on the 30 test flowers (replace XX with your number)
-
+- **Accuracy:** 96.7% on the 30 test flowers 
 ## How to run
 
 ```bash
